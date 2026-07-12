@@ -3,8 +3,11 @@
   "incident_type": "",
   "camera_id": "",
   "timestamp": "",
-  "confidence": "",
-  "status": "",
+  "confidence": 0.0,
+  "status": "OPEN",
   "snapshot": "",
-  "video_clip": ""
+  "video_clip": "",
+  "reviewed_by": "",
+  "review_notes": "",
+  "created_at": ""
 }
