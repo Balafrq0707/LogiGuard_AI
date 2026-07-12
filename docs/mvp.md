@@ -1,4 +1,4 @@
-##Included
+## Included
 
 Parcel mishandling detection
 Parcel throwing detection
@@ -8,7 +8,7 @@ Evidence capture (image/video)
 Incident database
 Supervisor review workflow
 
-##Planned
+## Planned
 
 Parcel theft detection
 Abandoned parcel detection
@@ -18,7 +18,7 @@ Notifications
 Analytics dashboard
 Multi-camera support
 
-##Out of Scope (Current MVP)
+## Out of Scope (Current MVP)
 
 Facial recognition
 Employee attendance
